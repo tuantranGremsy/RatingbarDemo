@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rating bar Demo</string>
+    <string name="tv_result">Your rating here</string>
+</resources>
